@@ -1,3 +1,5 @@
+                                                    HTML
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -33,3 +35,63 @@
     </section>
 </body>
 </html>
+
+
+                                                      CSS
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: left;
+}
+
+/* Header */
+header {
+    text-align: center;
+    width: 100%;
+    padding: 20px 0;
+    background: #ff5e78; /* Pink background */
+    color: white;
+}
+
+/* Main Container */
+.container {
+    width: 90%;
+    max-width: 1000px;
+    margin: 20px auto;
+}
+
+/* Sections */
+.about, .contact {
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+/* Profile Picture - Smaller Size */
+.profile-pic {
+    display: block;
+    width: 120px; /* Reduced size */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 10px;
+    float: left; /* Moves image to the left */
+    margin-right: 20px; /* Adds space between text and image */
+}
+
+/* Contact Section with Black Background */
+.contact {
+    text-align: center;
+    background: black; /* Black background for contact section */
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+/* Contact Links */
+.contact a {
+    color: white;
+    text-decoration: none;
+}
