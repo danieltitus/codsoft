@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DANIEL TITUS T - Web Developer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>DANIEL TITUS T</h1>
+            <p>Web Developer</p>
+        </div>
+    </header>
+    
+    <section class="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <img src="./Daniel/Daniel_Titus.jpg" alt="DANIEL TITUS T" class="profile-pic">
+            <p>I am a highly motivated Web Developer with a strong passion for front-end technologies, user experience, and performance optimization. Currently pursuing a B.Tech in Artificial Intelligence & Data Science, I blend analytical thinking with creative problem-solving to develop intuitive and engaging websites.</p>
+            <p>During my internship at CodSoft, I gained hands-on experience in real-world web development projects, strengthening my skills in HTML, CSS, and JavaScript. My expertise lies in creating structured, interactive, and visually appealing web applications with seamless user interfaces.</p>
+            <p>With a keen interest in modern web frameworks and a dedication to continuous learning, I strive to push boundaries in web development and deliver high-quality digital solutions.</p>
+        </div>
+    </section>
+    
+    <section class="contact">
+        <div class="container">
+            <h2>Contact Me</h2>
+            <p>Phone: 9787124888</p>
+            <p>Email: <a href="mailto:danirozario@gmail.com">danirozario@gmail.com</a></p>
+        </div>
+    </section>
+</body>
+</html>
