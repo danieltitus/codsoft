@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DANIEL TITUS T - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>DANIEL TITUS T</h1>
+        <p>Web Developer</p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#certifications">Certifications</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <section id="photo">
+        <img src="./Daniel/Daniel_Titus.jpg" alt="Daniel Titus T's portrait" class="photo-animation">
+        <h2>DANIEL TITUS T</h2>
+        <p>Email: <a href="mailto:danirozario@gmail.com">danirozario@gmail.com</a></p>
+        <p>Phone: <a href="tel:9787124888">9787124888</a></p>
+    </section>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am a passionate web developer with a strong enthusiasm for creating dynamic and interactive web applications. My expertise includes front-end technologies such as HTML, CSS, and JavaScript, as well as back-end technologies like Node.js and Express. I am dedicated to writing clean, efficient code and continuously improving my skills through practice and learning.</p>
+        <p>With a keen eye for design and a commitment to user experience, I strive to build responsive and visually appealing web solutions. I enjoy collaborating with teams to bring innovative ideas to life and am always eager to take on new challenges in the ever-evolving field of web development.</p>
+        <p>In addition to my technical skills, I possess strong problem-solving abilities and a proactive approach to learning new technologies. I am always looking for opportunities to expand my knowledge and stay updated with industry trends.</p>
+    </section>
+    
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML5 & CSS3</li>
+            <li>JavaScript (ES6+)</li>
+            <li>React.js & Redux</li>
+            <li>Node.js & Express.js</li>
+            <li>MongoDB & SQL Databases</li>
+            <li>Responsive Web Design</li>
+            <li>Version Control (Git & GitHub)</li>
+            <li>RESTful APIs & Web Services</li>
+            <li>Agile Methodologies</li>
+        </ul>
+    </section>
+    
+    <section id="experience">
+        <h2>Experience</h2>
+        <p><strong>Intern at Codsoft</strong></p>
+        <p>During my internship at Codsoft, I worked on various web development projects, collaborating with senior developers to enhance my skills. I contributed to the development of responsive web applications and gained hands-on experience with frameworks like React.js and Node.js. This experience allowed me to understand the full software development lifecycle and improve my problem-solving abilities.</p>
+        <p>My responsibilities included:</p>
+        <ul>
+            <li>Assisting in the design and development of user-friendly web interfaces</li>
+            <li>Participating in code reviews and team meetings to discuss project progress</li>
+            <li>Debugging and troubleshooting issues in existing applications</li>
+            <li>Learning and applying best practices in web development</li>
+        </ul>
+    </section>
+    
+    <section id="certifications">
+        <h2>Certifications</h2>
+        <ul>
+            <li>Certificate in HTML</li>
+            <li>Certificate in CSS</li>
+            <li>Certificate in JavaScript</li>
+        </ul>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:danirozario@gmail.com">danirozario@gmail.com</a></p>
+        <p>Phone: <a href="tel:9787124888">9787124888</a></p>
